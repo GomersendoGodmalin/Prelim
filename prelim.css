@@ -1,0 +1,54 @@
+nav ul{
+    text-align: center;
+}
+
+nav li{
+    background-color:skyblue;
+    padding: 20px;
+    display: inline-block;
+}
+
+nav li a{
+    text-decoration: none;
+}
+
+header {
+    background-color:green;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main p{
+    background-color:darkcyan;
+    padding: 20px;
+    text-align: justify;
+}
+
+main h3{
+    background-color:darkcyan;
+    text-align: center;
+}
+
+footer {
+    background-color: purple;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.exhibit{
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+.exhibit li{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.exhibit img{
+    width: 600%;
+}
